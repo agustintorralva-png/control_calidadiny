@@ -1,4 +1,4 @@
-const CACHE_NAME = "qc-v4";
+const CACHE_NAME = "qc-v5";
 
 const ASSETS = [
   "/qualitycast/",
